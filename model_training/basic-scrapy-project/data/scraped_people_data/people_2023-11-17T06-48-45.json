@@ -1,0 +1,86 @@
+[
+    {
+        "profile": "thiwanka-rodrigo-485ba362",
+        "url": "https://www.linkedin.com/in/thiwanka-rodrigo-485ba362/",
+        "name": "Thiwanka Rodrigo",
+        "experience": [
+            {
+                "position": "Deputy General Manager Manufacturing & Operations",
+                "organisation": "MAS intimates Casualline",
+                "organisation_profile": "",
+                "location": "Sri Lanka",
+                "start_time": "Feb 2022",
+                "end_time": "present",
+                "duration": "1 year 10 months"
+            },
+            {
+                "position": "Operations Manager",
+                "organisation": "Next Group PLC",
+                "organisation_profile": "https://www.linkedin.com/company/lifeatnext",
+                "location": "",
+                "start_time": "Jun 2011",
+                "end_time": "Jun 2016",
+                "duration": "5 years 1 month"
+            },
+            {
+                "position": "Senior Executive Quality Assurance",
+                "organisation": "MAS Linea Aqua(pvt) ltd",
+                "organisation_profile": "",
+                "location": "",
+                "start_time": "Feb 2005",
+                "end_time": "Feb 2011",
+                "duration": "6 years 1 month"
+            },
+            {
+                "position": "Buyer dedicated QA manager",
+                "organisation": "Time Garment (pvt) ltd",
+                "organisation_profile": "",
+                "location": "",
+                "start_time": "Mar 2003",
+                "end_time": "Feb 2005",
+                "duration": "2 years"
+            },
+            {
+                "position": "Deputy General Manager",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Bangladesh",
+                "start_time": "Apr 2021",
+                "end_time": "Feb 2022",
+                "duration": "11 months"
+            },
+            {
+                "position": "Operations Manager",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Bangladesh",
+                "start_time": "Aug 2016",
+                "end_time": "Apr 2021",
+                "duration": "4 years 9 months"
+            },
+            {
+                "position": "Operations Manger",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Linea Clothing Kandy",
+                "start_time": "Jul 2016",
+                "end_time": "Apr 2021",
+                "duration": "4 years 10 months"
+            }
+        ],
+        "education": [
+            {
+                "organisation": "Thurstan Collage Colombo",
+                "organisation_profile": "",
+                "course_details": "Production management & Organization university of Moratuwa",
+                "start_time": "1986",
+                "end_time": "1999"
+            },
+            {
+                "organisation": "University of Moratuwa Sri lanka",
+                "organisation_profile": "",
+                "course_details": "Production Management  & Organization"
+            }
+        ]
+    }
+]

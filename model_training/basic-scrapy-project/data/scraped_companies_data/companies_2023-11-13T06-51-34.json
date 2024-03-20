@@ -1,0 +1,119 @@
+[
+    {
+        "name": "WSO2",
+        "url": "https://www.linkedin.com/company/wso2",
+        "industry": "Software Development",
+        "size": "501-1,000 employees",
+        "headquaters": "Santa Clara, California",
+        "type": "Privately Held",
+        "founded": "2005"
+    },
+    {
+        "name": "University of Moratuwa",
+        "url": "https://lk.linkedin.com/school/university-of-moratuwa/",
+        "industry": "Higher Education",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Moratuwa, Western",
+        "type": "Educational",
+        "founded": "1972"
+    },
+    {
+        "name": "T&FG (Timex Garments)",
+        "url": "https://lk.linkedin.com/company/t&fg",
+        "industry": "Apparel & Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo, Western",
+        "type": "Privately Held",
+        "founded": "1967"
+    },
+    {
+        "name": "RM Holdings [PVT] LTD",
+        "url": "https://www.linkedin.com/company/rmholdings",
+        "industry": "Retail Apparel and Fashion",
+        "size": "501-1,000 employees",
+        "headquaters": "Negombo, Western",
+        "type": "Privately Held",
+        "founded": "2007"
+    },
+    {
+        "name": "Voguetex (PVT) LTD",
+        "url": "https://lk.linkedin.com/company/voguetex-pvt-ltd",
+        "industry": "Textile Manufacturing",
+        "size": "5,001-10,000 employees",
+        "headquaters": "Sri lanka, Western",
+        "type": "Privately Held",
+        "founded": ""
+    },
+    {
+        "name": "Metropolitan Group of Companies",
+        "url": "https://www.linkedin.com/company/metropolitan-group-of-companies",
+        "industry": "IT Services and IT Consulting",
+        "size": "501-1,000 employees",
+        "headquaters": "Privately Held",
+        "type": "",
+        "founded": ""
+    },
+    {
+        "name": "Next",
+        "url": "https://www.linkedin.com/company/lifeatnext",
+        "industry": "Retail",
+        "size": "10,001+ employees",
+        "headquaters": "Leicester, Leicestershire",
+        "type": "Privately Held",
+        "founded": "1982"
+    },
+    {
+        "name": "BinethT Studios",
+        "url": "https://www.linkedin.com/company/binetht-studios",
+        "industry": "Graphic Design",
+        "size": "1 employee",
+        "headquaters": "Colombo",
+        "type": "Self-Employed",
+        "founded": ""
+    },
+    {
+        "name": "MAS Holdings",
+        "url": "https://lk.linkedin.com/company/mas-holdings",
+        "industry": "Apparel & Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo, Colombo",
+        "type": "Privately Held",
+        "founded": "1987"
+    },
+    {
+        "name": "Emjay - Penguin",
+        "url": "https://lk.linkedin.com/company/emjay-penguin",
+        "industry": "Retail Apparel and Fashion",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Colombo",
+        "type": "Privately Held",
+        "founded": "2005"
+    },
+    {
+        "name": "Brandix",
+        "url": "https://lk.linkedin.com/company/brandix",
+        "industry": "Retail Apparel and Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Privately Held",
+        "type": "2002",
+        "founded": ""
+    },
+    {
+        "name": "Lucky Industries SriLanka",
+        "url": "https://lk.linkedin.com/company/lucky-industries-srilanka",
+        "industry": "Apparel & Fashion",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Colombo 04, Colombo",
+        "type": "Privately Held",
+        "founded": "1960"
+    },
+    {
+        "name": "Dialog Axiata PLC",
+        "url": "https://lk.linkedin.com/company/dialog-axiata-plc",
+        "industry": "Telecommunications",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Colombo 2, Western Province",
+        "type": "Public Company",
+        "founded": "1993"
+    }
+]

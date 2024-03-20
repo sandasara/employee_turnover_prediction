@@ -1,0 +1,67 @@
+[
+    {
+        "profile": "dulari-hansika",
+        "url": "https://www.linkedin.com/in/dulari-hansika/",
+        "name": "Dulari Kumarapeli",
+        "experience": [
+            {
+                "position": "Revenue Planning - Category Management at Keells Super",
+                "organisation": "John Keells Holdings PLC",
+                "organisation_profile": "https://www.linkedin.com/company/john-keells-holdings",
+                "location": "Western, Sri Lanka",
+                "start_time": "Oct 2019",
+                "end_time": "present",
+                "duration": "4 years 1 month",
+                "description": ""
+            },
+            {
+                "position": "Commercial and Logistics Exceutive",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Western, Sri Lanka",
+                "start_time": "Jul 2018",
+                "end_time": "Mar 2019",
+                "duration": "9 months",
+                "description": ""
+            },
+            {
+                "position": "Strategic Planning Intern",
+                "organisation": "",
+                "organisation_profile": "",
+                "location": "Biyagama Export Zone",
+                "start_time": "Feb 2018",
+                "end_time": "Jul 2018",
+                "duration": "6 months",
+                "description": ""
+            },
+            {
+                "position": "Business internship",
+                "organisation": "",
+                "organisation_profile": "",
+                "location": "Melbourne, Australia",
+                "start_time": "Nov 2016",
+                "end_time": "Feb 2017",
+                "duration": "4 months",
+                "description": ""
+            }
+        ],
+        "education": [
+            {
+                "organisation": "Deakin University",
+                "organisation_profile": "https://www.linkedin.com/school/deakin-university/",
+                "course_details": "Bachelor\u2019s Degree Bachelor of Commerce (Accounting & Business Analytics) 80",
+                "description": "Activities and Societies: Golden Key Honour Society, Deakin Commerce Society",
+                "start_time": "2015",
+                "end_time": "2017"
+            },
+            {
+                "organisation": "",
+                "organisation_profile": "",
+                "course_details": "High School Business/Commerce, General 80",
+                "description": "Activities and Societies: Badminton (All island championship), Basketball, High-school Prefect(monitor), School Toastmasters and debating club",
+                "start_time": "2002",
+                "end_time": "2014"
+            }
+        ]
+    }
+]

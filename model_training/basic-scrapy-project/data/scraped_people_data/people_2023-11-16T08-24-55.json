@@ -1,0 +1,93 @@
+[
+    {
+        "profile": "sohan-deshantha-889b3127",
+        "url": "https://www.linkedin.com/in/sohan-deshantha-889b3127/",
+        "name": "Sohan Deshantha",
+        "experience": [
+            {
+                "position": "Deputy General Manager - P2P & Taxation",
+                "organisation": "MAS Legato",
+                "organisation_profile": "https://www.linkedin.com/company/mas-legato",
+                "location": "Colombo, Western Province, Sri Lanka",
+                "start_time": "Apr 2023",
+                "end_time": "present",
+                "duration": "8 months"
+            },
+            {
+                "position": "Finance Manager",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Sri Lanka",
+                "start_time": "Aug 2021",
+                "end_time": "Apr 2023",
+                "duration": "1 year 9 months"
+            },
+            {
+                "position": "Assistant Manager Finance",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Colombo, Western, Sri Lanka",
+                "start_time": "Jan 2020",
+                "end_time": "Jul 2021",
+                "duration": "1 year 7 months"
+            },
+            {
+                "position": "Group Management Accountant",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Colombo, Western, Sri Lanka",
+                "start_time": "Apr 2018",
+                "end_time": "Dec 2019",
+                "duration": "1 year 9 months"
+            },
+            {
+                "position": "Management Accountant",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "",
+                "start_time": "Apr 2006",
+                "end_time": "Mar 2018",
+                "duration": "12 years"
+            },
+            {
+                "position": "Assistant Accountant",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "",
+                "start_time": "Aug 2004",
+                "end_time": "Apr 2006",
+                "duration": "1 year 9 months"
+            }
+        ],
+        "education": [
+            {
+                "organisation": "Cardiff Metropolitan University",
+                "organisation_profile": "https://www.linkedin.com/school/cardiff-metropolitan-university/",
+                "course_details": "MBA - Master of Business Administration (MBA) General",
+                "start_time": "2015",
+                "end_time": "2016"
+            },
+            {
+                "organisation": "Edith Cowan University",
+                "organisation_profile": "https://www.linkedin.com/school/edithcowanuniversity/",
+                "course_details": "Management & Marketing Marketing/Marketing Management, General",
+                "start_time": "2007",
+                "end_time": "2009"
+            },
+            {
+                "organisation": "St Joseph's College - Colombo 10",
+                "organisation_profile": "",
+                "course_details": "",
+                "start_time": "1999",
+                "end_time": "2001"
+            },
+            {
+                "organisation": "Holy Cross College - Kalutara",
+                "organisation_profile": "",
+                "course_details": "",
+                "start_time": "1988",
+                "end_time": "1998"
+            }
+        ]
+    }
+]

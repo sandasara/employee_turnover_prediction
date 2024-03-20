@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Ansell",
+        "url": "https://www.linkedin.com/company/ansell-healthcare",
+        "industry": "Consumer Goods",
+        "size": "10,001+ employees",
+        "headquaters": "Iselin, New Jersey",
+        "type": "Public Company",
+        "founded": "1895"
+    },
+    {
+        "name": "Sunshine Holdings PLC",
+        "url": "https://lk.linkedin.com/company/sunshine-holdings-plc",
+        "industry": "Investment Management",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Colombo 03",
+        "type": "Public Company",
+        "founded": "1967"
+    },
+    {
+        "name": "BinethT Studios",
+        "url": "https://lk.linkedin.com/company/binetht-studios",
+        "industry": "Graphic Design",
+        "size": "1 employee",
+        "headquaters": "Colombo",
+        "type": "Self-Employed",
+        "founded": ""
+    },
+    {
+        "name": "JOHN KEELLS IT",
+        "url": "https://lk.linkedin.com/company/john-keells-it",
+        "industry": "IT Services and IT Consulting",
+        "size": "501-1,000 employees",
+        "headquaters": "Colombo, Western",
+        "type": "Privately Held",
+        "founded": "1987"
+    },
+    {
+        "name": "GLC Europe",
+        "url": "https://hu.linkedin.com/company/global-leading-conferences",
+        "industry": "Events Services",
+        "size": "201-500 employees",
+        "headquaters": "Budapest, Budapest",
+        "type": "Privately Held",
+        "founded": "2011"
+    },
+    {
+        "name": "Adecco",
+        "url": "https://ch.linkedin.com/company/adecco",
+        "industry": "Personalbesetzung und Rekrutierung",
+        "size": "10.001+ Besch\u00e4ftigte",
+        "headquaters": "Zurich",
+        "type": "Kapitalgesellschaft (AG, GmbH, UG etc.)",
+        "founded": ""
+    },
+    {
+        "name": "Epic Lanka",
+        "url": "https://lk.linkedin.com/company/epic-lanka-group",
+        "industry": "IT Services and IT Consulting",
+        "size": "201-500 employees",
+        "headquaters": "Colombo, Western Province",
+        "type": "Privately Held",
+        "founded": "1998"
+    },
+    {
+        "name": "Hirdaramani Group",
+        "url": "https://www.linkedin.com/company/hirdaramani-group-of-companies",
+        "industry": "Retail Apparel and Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo 01, Western Province",
+        "type": "Privately Held",
+        "founded": "1890"
+    }
+]

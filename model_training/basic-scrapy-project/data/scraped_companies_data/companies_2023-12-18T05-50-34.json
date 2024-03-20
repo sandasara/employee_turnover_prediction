@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Singapore Airlines",
+        "url": "https://sg.linkedin.com/company/singapore-airlines",
+        "industry": "Airlines and Aviation",
+        "size": "10,001+ employees",
+        "headquaters": "Singapore, Singapore",
+        "type": "Public Company",
+        "founded": "1972"
+    },
+    {
+        "name": "EAM Maliban Textiles (Pvt) Ltd",
+        "url": "https://lk.linkedin.com/company/eam-maliban-textiles",
+        "industry": "Apparel Manufacturing",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo 10, Western Province",
+        "type": "Privately Held",
+        "founded": "1974"
+    },
+    {
+        "name": "Deloitte",
+        "url": "https://www.linkedin.com/company/deloitte",
+        "industry": "Business Consulting and Services",
+        "size": "10,001+ employees",
+        "headquaters": "Worldwide",
+        "type": "Privately Held",
+        "founded": ""
+    },
+    {
+        "name": "MAS Holdings",
+        "url": "https://fi.linkedin.com/company/mas-holdings",
+        "industry": "Apparel & Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo, Colombo",
+        "type": "Privately Held",
+        "founded": ""
+    },
+    {
+        "name": "SLIIT",
+        "url": "https://www.linkedin.com/company/sliit",
+        "industry": "Higher Education",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Malabe, Western",
+        "type": "Educational",
+        "founded": "1999"
+    },
+    {
+        "name": "SQ Group",
+        "url": "https://bd.linkedin.com/company/sq-group",
+        "industry": "Apparel & Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Dhaka, Dhaka",
+        "type": "Self-Owned",
+        "founded": "1993"
+    },
+    {
+        "name": "Global System Solutions International - GSS",
+        "url": "https://lk.linkedin.com/company/global-system-solutions-international",
+        "industry": "Information Services",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Nugegoda, Colombo",
+        "type": "Privately Held",
+        "founded": "2013"
+    },
+    {
+        "name": "UTE CAT",
+        "url": "https://lk.linkedin.com/company/utecat",
+        "industry": "Machinery Manufacturing",
+        "size": "201-500 employees",
+        "headquaters": "Wattala, Western Province",
+        "type": "Privately Held",
+        "founded": "1947"
+    },
+    {
+        "name": "Aitken Spence Hotels",
+        "url": "https://lk.linkedin.com/company/aitken-spence-hotels",
+        "industry": "Hospitality",
+        "size": "5,001-10,000 employees",
+        "headquaters": "Colombo , Western Province",
+        "type": "Public Company",
+        "founded": ""
+    },
+    {
+        "name": "Adecco",
+        "url": "https://ch.linkedin.com/company/adecco",
+        "industry": "Personalbesetzung und Rekrutierung",
+        "size": "10.001+ Besch\u00e4ftigte",
+        "headquaters": "Zurich",
+        "type": "Kapitalgesellschaft (AG, GmbH, UG etc.)",
+        "founded": ""
+    },
+    {
+        "name": "DFCC Bank PLC",
+        "url": "https://lk.linkedin.com/company/dfcc-bank",
+        "industry": "Banking",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Colombo 03",
+        "type": "Public Company",
+        "founded": "1955"
+    },
+    {
+        "name": "INQUBE GLOBAL",
+        "url": "https://at.linkedin.com/company/inqube-global",
+        "industry": "Einzelhandel: Bekleidung und Mode",
+        "size": "5.001\u201310.000 Besch\u00e4ftigte",
+        "headquaters": "Ranala, Greater Colombo",
+        "type": "Privatunternehmen",
+        "founded": "2016"
+    },
+    {
+        "name": "CONIFS Global",
+        "url": "https://lk.linkedin.com/company/conifs-global",
+        "industry": "IT Services and IT Consulting",
+        "size": "11-50 employees",
+        "headquaters": "Colombo, Western",
+        "type": "Privately Held",
+        "founded": "2019"
+    },
+    {
+        "name": "OneData Software Solutions",
+        "url": "https://www.linkedin.com/company/onedata-software-solutions-pvt-ltd-",
+        "industry": "IT Services and IT Consulting",
+        "size": "51-200 employees",
+        "headquaters": "New York, NewYork",
+        "type": "Privately Held",
+        "founded": "2014"
+    },
+    {
+        "name": "Commercial Bank of Ceylon PLC",
+        "url": "https://at.linkedin.com/company/combanksl",
+        "industry": "Bankwesen",
+        "size": "1.001\u20135.000 Besch\u00e4ftigte",
+        "headquaters": "Colombo 01, Western Province",
+        "type": "Kapitalgesellschaft (AG, GmbH, UG etc.)",
+        "founded": "1920"
+    },
+    {
+        "name": "Startek",
+        "url": "https://www.linkedin.com/company/startek",
+        "industry": "Outsourcing and Offshoring Consulting",
+        "size": "10,001+ employees",
+        "headquaters": "Denver, CO",
+        "type": "Public Company",
+        "founded": ""
+    },
+    {
+        "name": "SYNERGEN Health",
+        "url": "https://www.linkedin.com/company/synergen-health-llc",
+        "industry": "Hospitals and Health Care",
+        "size": "501-1,000 employees",
+        "headquaters": "Dallas, TX",
+        "type": "Privately Held",
+        "founded": "2011"
+    },
+    {
+        "name": "Teejay Group",
+        "url": "https://lk.linkedin.com/company/teejaylankaplc",
+        "industry": "Textile Manufacturing",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Avissawella, Western Province,",
+        "type": "Public Company",
+        "founded": ""
+    },
+    {
+        "name": "SBT Co., Ltd.",
+        "url": "https://jp.linkedin.com/company/sbt-co-ltd",
+        "industry": "IT \u30fb\u60c5\u5831\u30b5\u30fc\u30d3\u30b9",
+        "size": "\u793e\u54e1 1,001 - 5,000\u540d",
+        "headquaters": "Yokohama-shi\u3001Kanagawa",
+        "type": "\u975e\u4e0a\u5834\u4f01\u696d",
+        "founded": ""
+    },
+    {
+        "name": "Herm\u00e8s",
+        "url": "https://fr.linkedin.com/company/hermes-group",
+        "industry": "Commerce de d\u00e9tail d\u2019articles de joaillerie et de bijouterie",
+        "size": "+ de 10\u00a0000\u00a0employ\u00e9s",
+        "headquaters": "Paris",
+        "type": "Soci\u00e9t\u00e9 cot\u00e9e en bourse",
+        "founded": "1837"
+    },
+    {
+        "name": "Talawakelle Tea Estates PLC (Member of Hayleys Plantations Sector)",
+        "url": "https://lk.linkedin.com/company/talawakelle-tea-estates-plc-hayleys-plantations-sector",
+        "industry": "Food and Beverage Services",
+        "size": "5,001-10,000 employees",
+        "headquaters": "Colombo, Western - Colombo",
+        "type": "Public Company",
+        "founded": "1992"
+    },
+    {
+        "name": "University of Sri Jayewardenepura",
+        "url": "https://lk.linkedin.com/school/university-of-sri-jayewardenepura/",
+        "industry": "Education Management",
+        "size": "501-1,000 employees",
+        "headquaters": "Nugegoda, Western Sri Lanka",
+        "type": "Educational",
+        "founded": "1873"
+    },
+    {
+        "name": "Lyceum International School, Sri Lanka",
+        "url": "https://www.linkedin.com/company/lyceum-international-school-sri-lanka",
+        "industry": "Education Management",
+        "size": "201-500 employees",
+        "headquaters": "",
+        "type": "Privately Held",
+        "founded": ""
+    },
+    {
+        "name": "CHINA STATE CONSTRUCTION (CSCEC)",
+        "url": "https://cn.linkedin.com/company/llp-altenge",
+        "industry": "\u5efa\u7b51\u4e1a",
+        "size": "\u8d85\u8fc7 10,001 \u4eba",
+        "headquaters": "Beijing  \uff0cBeijing  CN",
+        "type": "\u653f\u5e9c\u673a\u6784",
+        "founded": "2007"
+    },
+    {
+        "name": "RR Donnelley",
+        "url": "https://www.linkedin.com/company/rr-donnelley",
+        "industry": "Advertising Services",
+        "size": "10,001+ employees",
+        "headquaters": "Chicago, Illinois",
+        "type": "Public Company",
+        "founded": ""
+    },
+    {
+        "name": "SriLankan Airlines Official",
+        "url": "https://lk.linkedin.com/company/flysrilankan",
+        "industry": "Airlines and Aviation",
+        "size": "5,001-10,000 employees",
+        "headquaters": "Katunayake, Western",
+        "type": "Public Company",
+        "founded": "1979"
+    },
+    {
+        "name": "TNL Radio Network (Pvt) Limited",
+        "url": "https://lk.linkedin.com/company/tnlrn",
+        "industry": "Broadcast Media Production and Distribution",
+        "size": "51-200 employees",
+        "headquaters": "Colombo 03, Western Province",
+        "type": "Privately Held",
+        "founded": "1993"
+    },
+    {
+        "name": "Twinery - Innovations by MAS",
+        "url": "https://lk.linkedin.com/company/twinerymas",
+        "industry": "Textile Manufacturing",
+        "size": "51-200 employees",
+        "headquaters": "Colombo , Colombo",
+        "type": "Privately Held",
+        "founded": "2013"
+    },
+    {
+        "name": "IKIGAI Bridal",
+        "url": "https://lk.linkedin.com/company/ikigai-bridal",
+        "industry": "Apparel & Fashion",
+        "size": "2-10 employees",
+        "headquaters": "colombo",
+        "type": "Self-Owned",
+        "founded": "2017"
+    },
+    {
+        "name": "University of Kelaniya Sri Lanka",
+        "url": "https://lk.linkedin.com/school/university-of-kelaniya-sri-lanka/",
+        "industry": "Higher Education",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Kelaniya, Western",
+        "type": "Educational",
+        "founded": "1875"
+    },
+    {
+        "name": "The Hayleys Group (Hayleys PLC)",
+        "url": "https://lk.linkedin.com/company/hayleys-group",
+        "industry": "Wholesale Import and Export",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo",
+        "type": "Public Company",
+        "founded": "1878"
+    },
+    {
+        "name": "SLIIT",
+        "url": "https://lk.linkedin.com/school/sliit/",
+        "industry": "Higher Education",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Malabe, Western",
+        "type": "Educational",
+        "founded": "1999"
+    },
+    {
+        "name": "Crystal International",
+        "url": "https://hk.linkedin.com/company/crystalinternational",
+        "industry": "Retail Apparel and Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Hong Kong",
+        "type": "Public Company",
+        "founded": "1970"
+    },
+    {
+        "name": "MAS Kreeda Al Safi",
+        "url": "https://jo.linkedin.com/company/mas-kreeda-al-safi",
+        "industry": "\u062a\u0635\u0646\u064a\u0639 \u0627\u0644\u0645\u0644\u0627\u0628\u0633",
+        "size": "\u0665\u0660\u0660\u0661 - \u0661\u0660 \u0622\u0644\u0627\u0641 \u0645\u0648\u0638\u0641",
+        "headquaters": "Sahab, Amman",
+        "type": "\u0634\u0631\u0643\u0629 \u064a\u0645\u0644\u0643\u0647\u0627 \u0639\u062f\u062f \u0642\u0644\u064a\u0644 \u0645\u0646 \u0627\u0644\u0623\u0634\u062e\u0627\u0635",
+        "founded": "2015"
+    },
+    {
+        "name": "Richard Pieris & Company PLC",
+        "url": "https://lk.linkedin.com/company/richard-pieris-&-company-plc",
+        "industry": "Consumer Services",
+        "size": "10,001+ employees",
+        "headquaters": "Maharagama",
+        "type": "Public Company",
+        "founded": "1932"
+    },
+    {
+        "name": "Universitas Islam Sultan Agung Semarang",
+        "url": "https://id.linkedin.com/school/universitas-islam-sultan-agung-semarang/",
+        "industry": "Perguruan Tinggi",
+        "size": "1.001-5.000 karyawan",
+        "headquaters": "Seamarang, Jawa Tengah",
+        "type": "Pendidikan",
+        "founded": "1962"
+    },
+    {
+        "name": "MTI Consulting",
+        "url": "https://bh.linkedin.com/company/mti-consulting",
+        "industry": "\u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0641\u064a \u0645\u062c\u0627\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644",
+        "size": "\u0661\u0661- \u0665\u0660 \u0645\u0648\u0638\u0641",
+        "headquaters": "Worldwide",
+        "type": "\u0634\u0631\u0643\u0629 \u064a\u0645\u0644\u0643\u0647\u0627 \u0639\u062f\u062f \u0642\u0644\u064a\u0644 \u0645\u0646 \u0627\u0644\u0623\u0634\u062e\u0627\u0635",
+        "founded": "1997"
+    },
+    {
+        "name": "Java Valley",
+        "url": "https://id.linkedin.com/company/java-valley",
+        "industry": "Pengembangan Perangkat Lunak",
+        "size": "11-50 karyawan",
+        "headquaters": "Semarang, Central Java",
+        "type": "Perseroan Tertutup",
+        "founded": ""
+    },
+    {
+        "name": "Eskimo Fashion Knitwear",
+        "url": "https://de.linkedin.com/company/eskimo-fashion-knitwear",
+        "industry": "Einzelhandel: Bekleidung und Mode",
+        "size": "Chemnitz",
+        "headquaters": "",
+        "type": "",
+        "founded": ""
+    },
+    {
+        "name": "Dell Technologies",
+        "url": "https://www.linkedin.com/company/delltechnologies",
+        "industry": "IT Services and IT Consulting",
+        "size": "10,001+ employees",
+        "headquaters": "Round Rock, Texas",
+        "type": "Privately Held",
+        "founded": ""
+    },
+    {
+        "name": "MTV/MBC Channels Pvt. Ltd - Capital Maharaja Group",
+        "url": "https://lk.linkedin.com/company/mtv-mbc-channels-pvt-ltd",
+        "industry": "Media Production",
+        "size": "201-500 employees",
+        "headquaters": "",
+        "type": "Privately Held",
+        "founded": "1992"
+    },
+    {
+        "name": "IFS",
+        "url": "https://se.linkedin.com/company/ifs",
+        "industry": "Programutveckling",
+        "size": "5\u00a0001\u201310\u00a0000 anst\u00e4llda",
+        "headquaters": "Link\u00f6ping",
+        "type": "Privat\u00e4gt f\u00f6retag",
+        "founded": "1983"
+    },
+    {
+        "name": "MAS Active",
+        "url": "https://lk.linkedin.com/company/mas-active",
+        "industry": "Retail Apparel and Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Nawala, Western Province",
+        "type": "Privately Held",
+        "founded": "2005"
+    },
+    {
+        "name": "Accenture",
+        "url": "https://ie.linkedin.com/company/accenture",
+        "industry": "Business Consulting and Services",
+        "size": "10,001+ employees",
+        "headquaters": "Dublin 2",
+        "type": "Public Company",
+        "founded": ""
+    },
+    {
+        "name": "Amitabha Malaysia",
+        "url": "https://my.linkedin.com/company/amitabha-malaysia",
+        "industry": "Pembuatan Peralatan, Elektrik dan Elektronik",
+        "size": "2-10 pekerja",
+        "headquaters": "",
+        "type": "",
+        "founded": ""
+    },
+    {
+        "name": "Celebrity Fashion Vina Co., LTD",
+        "url": "https://vn.linkedin.com/company/celebrity-fashion-vina-co-ltd",
+        "industry": "501-1,000 employees",
+        "size": "Tam Ky City, ,  Quang Nam Province",
+        "headquaters": "Privately Held",
+        "type": "",
+        "founded": ""
+    },
+    {
+        "name": "Ceylon Electricity Board",
+        "url": "https://www.linkedin.com/company/ceylon-electricity-board",
+        "industry": "Appliances, Electrical, and Electronics Manufacturing",
+        "size": "10,001+ employees",
+        "headquaters": "Kandy, Peradeniya",
+        "type": "Public Company",
+        "founded": ""
+    },
+    {
+        "name": "Qatar Airways",
+        "url": "https://qa.linkedin.com/company/qatar-airways",
+        "industry": "\u0627\u0644\u062e\u0637\u0648\u0637 \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0627\u0644\u0637\u064a\u0631\u0627\u0646",
+        "size": "\u0623\u0643\u062b\u0631 \u0645\u0646 \u0661\u0660\u0660\u0660\u0661 \u0645\u0648\u0638\u0641",
+        "headquaters": "Doha",
+        "type": "\u0634\u0631\u0643\u0629 \u064a\u0645\u0644\u0643\u0647\u0627 \u0639\u062f\u062f \u0642\u0644\u064a\u0644 \u0645\u0646 \u0627\u0644\u0623\u0634\u062e\u0627\u0635",
+        "founded": "1997"
+    },
+    {
+        "name": "Semco Maritime",
+        "url": "https://dk.linkedin.com/company/semco-maritime",
+        "industry": "Produktion af halvledere til vedvarende energi",
+        "size": "1.001 \u2013 5.000 medarbejdere",
+        "headquaters": "Esbjerg",
+        "type": "Privat",
+        "founded": "1980"
+    },
+    {
+        "name": "Daraz",
+        "url": "https://sg.linkedin.com/company/daraz",
+        "industry": "Software Development",
+        "size": "1,001-5,000 employees",
+        "headquaters": "Singapore",
+        "type": "Privately Held",
+        "founded": "2012"
+    }
+]

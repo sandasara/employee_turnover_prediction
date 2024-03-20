@@ -1,0 +1,100 @@
+[
+    {
+        "profile": "yoshan-de-zoysa",
+        "url": "https://www.linkedin.com/in/yoshan-de-zoysa/",
+        "name": "Yoshan De Zoysa",
+        "experience": [
+            {
+                "position": "Management Trainee",
+                "organisation": "Oceanpick (Pvt) Ltd - Sri Lanka",
+                "organisation_profile": "https://www.linkedin.com/company/oceanpick-pvt-ltd-sri-lanka",
+                "location": "",
+                "start_time": "Aug 2013",
+                "end_time": "Mar 2014",
+                "duration": "8 months"
+            },
+            {
+                "position": "Assistant Manager - Sourcing & Supply Chain",
+                "organisation": "MAS Intimates",
+                "organisation_profile": "",
+                "location": "Sri Lanka",
+                "start_time": "Apr 2021",
+                "end_time": "present",
+                "duration": "2 years 8 months"
+            },
+            {
+                "position": "Senior Executive - Sourcing & Supply Chain",
+                "organisation": "MAS Intimates",
+                "organisation_profile": "",
+                "location": "Ratmalana",
+                "start_time": "Jul 2019",
+                "end_time": "Apr 2021",
+                "duration": "1 year 10 months"
+            },
+            {
+                "position": "Business Analyst",
+                "organisation": "MAS intimates",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Koggala | Panadura | Biyagama",
+                "start_time": "Jul 2016",
+                "end_time": "Jun 2019",
+                "duration": "3 years"
+            },
+            {
+                "position": "Financial Analyst",
+                "organisation": "Arpico Finance Company PLC",
+                "organisation_profile": "https://www.linkedin.com/company/amfcompanyplc",
+                "location": "No 146, Havelock Road, Colombo 5, Sri Lanka",
+                "start_time": "Feb 2016",
+                "end_time": "Jul 2016",
+                "duration": "6 months"
+            },
+            {
+                "position": "MIS Trainee",
+                "organisation": "Arpico Finance Company PLC",
+                "organisation_profile": "https://www.linkedin.com/company/amfcompanyplc",
+                "location": "No 146, Havelock Road, Colombo 5, Sri Lanka",
+                "start_time": "Jul 2015",
+                "end_time": "Jan 2016",
+                "duration": "7 months"
+            }
+        ],
+        "education": [
+            {
+                "organisation": "University of Bedfordshire",
+                "organisation_profile": "https://www.linkedin.com/school/university-of-bedfordshire/",
+                "course_details": "Master of Science - MS Purchasing Logistics and Supply chain management",
+                "start_time": "2020",
+                "end_time": "2021"
+            },
+            {
+                "organisation": "CIM | The Chartered Institute of Marketing",
+                "organisation_profile": "https://www.linkedin.com/school/chartered-institute-of-marketing/",
+                "course_details": "",
+                "start_time": "2019",
+                "end_time": "2019"
+            },
+            {
+                "organisation": "The Chartered Institute of Management Accountants",
+                "organisation_profile": "https://www.linkedin.com/school/the-chartered-institute-of-management-accountants/",
+                "course_details": "CIMA - ACMA, CGMA",
+                "start_time": "2013",
+                "end_time": "2017"
+            },
+            {
+                "organisation": "Heriot-Watt University",
+                "organisation_profile": "https://www.linkedin.com/school/heriot-watt-university/",
+                "course_details": "Bachelor of Business Administration (BBA) Accounting and Finance",
+                "start_time": "2015",
+                "end_time": "2016"
+            },
+            {
+                "organisation": "St.Joseph's College, Colombo",
+                "organisation_profile": "https://www.linkedin.com/school/stjosephscollegelk/",
+                "course_details": "",
+                "start_time": "2000",
+                "end_time": "2013"
+            }
+        ]
+    }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Cardiff Metropolitan University",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Cardiff, CF5 2YB",
+    "type": "Educational",
+    "founded": "1865"
+  },
+  {
+    "name": "University of Sri Jayewardenepura",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Education Management",
+    "size": "501-1,000 employees",
+    "headquaters": "Nugegoda, Western Sri Lanka",
+    "type": "Educational",
+    "founded": "1873"
+  },
+  {
+    "name": "Ananda College",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Education Administration Programs",
+    "size": "5,001-10,000 employees",
+    "headquaters": "Colomo 10, Western",
+    "type": "Educational",
+    "founded": "1886"
+  },
+  {
+    "name": "S.Thomas' College, Mount Lavinia",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Primary and Secondary Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Mount Lavinia, Colombo",
+    "type": "Educational",
+    "founded": "1851"
+  },
+  {
+    "name": "University of Bedfordshire",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "501-1,000 employees",
+    "headquaters": "Luton and Bedford, bedfordshire",
+    "type": "Educational",
+    "founded": "2006"
+  },
+  {
+    "name": "General Sir John Kotelawala Defence University",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "",
+    "headquaters": "Rathmalana, Western",
+    "type": "Educational",
+    "founded": null
+  },
+  {
+    "name": "Pearson College London",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "51-200 employees",
+    "headquaters": "London, England",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "Mayurapada National College, Mawanella",
+    "url": "",
+    "industry": "",
+    "size": "51-200 employees",
+    "headquaters": "Mawanella",
+    "type": "Educational",
+    "founded": "1869"
+  },
+  {
+    "name": "Aquinas College of Higher Studies",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "51-200 employees",
+    "headquaters": "Colombo, Western",
+    "type": "Educational",
+    "founded": "1954"
+  },
+  {
+    "name": "Robert Gordon University",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Aberdeen",
+    "type": "Educational",
+    "founded": "1992"
+  },
+  {
+    "name": "Pinnawala Central College",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "201-500 employees",
+    "headquaters": "Rambukkana, Sabaragamuwa",
+    "type": "Educational",
+    "founded": "1882"
+  },
+  {
+    "name": "Bangalore University",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "",
+    "headquaters": "",
+    "type": "Educational",
+    "founded": null
+  },
+  {
+    "name": "National Institute of Business Management (NIBM - Sri Lanka)",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "201-500 employees",
+    "headquaters": "Colombo, Western Province",
+    "type": "Educational",
+    "founded": "1968"
+  },
+  {
+    "name": "Asia e University",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "E-Learning Providers",
+    "size": "51-200 employees",
+    "headquaters": "Subang Jaya, Selangor",
+    "type": "Educational",
+    "founded": "2007"
+  },
+  {
+    "name": "UCL",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Research Services",
+    "size": "10,001+ employees",
+    "headquaters": "London, Greater London",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "University of Colombo School of Computing",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "51-200 employees",
+    "headquaters": "Colombo 7, Western",
+    "type": "Educational",
+    "founded": "2002"
+  },
+  {
+    "name": "Sri Lanka Institute of Training & Development - SLITAD",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Professional Training and Coaching",
+    "size": "201-500 employees",
+    "headquaters": "Sri Jayawardenepura Kotte",
+    "type": "Educational",
+    "founded": "1998"
+  },
+  {
+    "name": "University of Kelaniya Sri Lanka",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Kelaniya, Western",
+    "type": "Educational",
+    "founded": "1875"
+  },
+  {
+    "name": "RMIT University",
+    "url": "https://www.linkedin.com/redir/redirect",
+    "industry": "Higher Education",
+    "size": "10,001+ employees",
+    "headquaters": "Melbourne, Victoria",
+    "type": "Educational",
+    "founded": "1887"
+  },
+  {
+    "name": "London Metropolitan University",
+    "url": "http://www.londonmet.ac.uk/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "London",
+    "type": "Educational",
+    "founded": "2002"
+  },
+  {
+    "name": "The Manchester Metropolitan University",
+    "url": "http://www.mmu.ac.uk/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Manchester, Greater Manchester",
+    "type": "Educational",
+    "founded": "1970"
+  },
+  {
+    "name": "University College Dublin",
+    "url": "http://www.ucd.ie/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Dublin, dublin",
+    "type": "Educational",
+    "founded": "1854"
+  },
+  {
+    "name": "not-found",
+    "url": "",
+    "industry": null,
+    "size": "",
+    "headquaters": "",
+    "type": "",
+    "founded": ""
+  },
+  {
+    "name": "University of Colombo",
+    "url": "https://cmb.ac.lk/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Colombo 03, Western Province",
+    "type": "Educational",
+    "founded": "1913"
+  },
+  {
+    "name": "University of Suffolk",
+    "url": "http://www.uos.ac.uk",
+    "industry": "Higher Education",
+    "size": "501-1,000 employees",
+    "headquaters": "Ipswich, Suffolk",
+    "type": "Educational",
+    "founded": "2007"
+  },
+  {
+    "name": "CIM | The Chartered Institute of Marketing",
+    "url": "https://www.cim.co.uk",
+    "industry": "Advertising Services",
+    "size": "51-200 employees",
+    "headquaters": "Maidenhead, Berkshire",
+    "type": "Nonprofit",
+    "founded": "1911"
+  },
+  {
+    "name": "Lincoln University College",
+    "url": "http://www.lincoln.edu.my",
+    "industry": "Ense\u00f1anza superior",
+    "size": "De 201 a 500 empleados",
+    "headquaters": "Selangor Darul Ehsan,",
+    "type": "Instituci\u00f3n educativa",
+    "founded": "2002"
+  },
+  {
+    "name": "Stamford University Bangladesh",
+    "url": "https://www.stamforduniversity.edu.bd",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Dhaka",
+    "type": "Educational",
+    "founded": "2002"
+  },
+  {
+    "name": "Dharmaraja College - Kandy",
+    "url": "https://www.dharmaraja.lk/",
+    "industry": "Education Management",
+    "size": "201-500 employees",
+    "headquaters": "Kandy, Central",
+    "type": "Educational",
+    "founded": "1987"
+  },
+  {
+    "name": "CIMA",
+    "url": "https://www.aicpa-cima.com",
+    "industry": "Accounting",
+    "size": "201-500 employees",
+    "headquaters": "One South Place, London",
+    "type": "Nonprofit",
+    "founded": "1919"
+  },
+  {
+    "name": "Cardiff University / Prifysgol Caerdydd",
+    "url": "https://www.linkedin.com/school/cardiff-university/",
+    "industry": "Higher Education",
+    "size": "5,001-10,000 employees",
+    "headquaters": "Cardiff, Wales",
+    "type": "Educational",
+    "founded": "1883"
+  },
+  {
+    "name": "Coventry University",
+    "url": "https://www.linkedin.com/school/coventry-university/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Coventry, West Midlands",
+    "type": "Educational",
+    "founded": "1843"
+  },
+  {
+    "name": "The London School of Economics and Political Science (LSE)",
+    "url": "https://www.linkedin.com/school/london-school-of-economics/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "London",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "Northumbria University",
+    "url": "https://www.linkedin.com/school/northumbriauniversity/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Newcastle upon Tyne",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "D. S. Senanayake College",
+    "url": "https://www.linkedin.com/school/d-s-senanayake/",
+    "industry": "Education Management",
+    "size": "201-500 employees",
+    "headquaters": "Colombo 07, Colombo",
+    "type": "Educational",
+    "founded": "1967"
+  },
+  {
+    "name": "Mahinda College",
+    "url": "https://www.linkedin.com/school/mahindacollege/",
+    "industry": "Education Administration Programs",
+    "size": "201-500 employees",
+    "headquaters": "Galle, Southern",
+    "type": "Educational",
+    "founded": "1892"
+  },
+  {
+    "name": "SLIIT",
+    "url": "https://www.linkedin.com/school/sliit/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Malabe, Western",
+    "type": "Educational",
+    "founded": "1999"
+  },
+  {
+    "name": "Solent University",
+    "url": "https://www.linkedin.com/school/solentuni/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Southampton, Hampshire",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "Wrexham University",
+    "url": "https://www.linkedin.com/school/wrexham-university/",
+    "industry": "Higher Education",
+    "size": "501-1,000 employees",
+    "headquaters": "LL11 2AW",
+    "type": "Educational",
+    "founded": "2008"
+  },
+  {
+    "name": "Thurston High School",
+    "url": "https://www.linkedin.com/school/thurston-high-school-31/",
+    "industry": "Springfield, Oregon",
+    "size": "",
+    "headquaters": "",
+    "type": "",
+    "founded": ""
+  },
+  {
+    "name": "Chartered Institute of Personnel Management (CIPM).",
+    "url": "https://co.linkedin.com/school/institute-of-personnel-management-sri-lanka-ipm-/",
+    "industry": "Higher Education",
+    "size": "51-200 employees",
+    "headquaters": "Colombo, Western",
+    "type": "Educational",
+    "founded": "1959"
+  },
+  {
+    "name": "Curtin University",
+    "url": "https://www.linkedin.com/school/curtinuniversity/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Bentley, Western Australia",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "Trinity College Kandy",
+    "url": "https://www.linkedin.com/school/trinity-college-kandy/",
+    "industry": "Education Management",
+    "size": "201-500 employees",
+    "headquaters": "Kandy, Central",
+    "type": "Educational",
+    "founded": "1872"
+  },
+  {
+    "name": "University of Galway",
+    "url": "https://www.linkedin.com/school/universityofgalway/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Galway",
+    "type": "Educational",
+    "founded": "1845"
+  },
+  {
+    "name": "Nalanda College Colombo",
+    "url": "https://www.linkedin.com/school/nalandacollegecolombo/",
+    "industry": "Education Administration Programs",
+    "size": "51-200 employees",
+    "headquaters": "Colombo 10, Western Province",
+    "type": "Educational",
+    "founded": "1924"
+  },
+  {
+    "name": "Horizon University",
+    "url": "https://www.linkedin.com/school/horizon-university/",
+    "industry": "Higher Education",
+    "size": "2-10 employees",
+    "headquaters": "Lawrence, Indiana",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "Northwood University",
+    "url": "https://www.linkedin.com/school/northwood-university/",
+    "industry": "Higher Education",
+    "size": "501-1,000 employees",
+    "headquaters": "Midland, mi",
+    "type": "Educational",
+    "founded": "1959"
+  },
+  {
+    "name": "Institute of Chartered Accountants of Sri Lanka",
+    "url": "https://www.linkedin.com/school/institute-of-chartered-accountants-of-sri-lanka/",
+    "industry": "Accounting",
+    "size": "201-500 employees",
+    "headquaters": "Colombo 7",
+    "type": "Educational",
+    "founded": "1959"
+  },
+  {
+    "name": "UCAM Universidad Cat\u00f3lica San Antonio de Murcia",
+    "url": "https://www.linkedin.com/school/universidad-catolica-san-antonio-de-murcia/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Guadalupe, Murcia",
+    "type": "Educational",
+    "founded": "1996"
+  },
+  {
+    "name": "National University of Singapore",
+    "url": "https://be.linkedin.com/school/national-university-of-singapore/",
+    "industry": "Higher Education",
+    "size": "5,001-10,000 employees",
+    "headquaters": "Singapore",
+    "type": "Educational",
+    "founded": "1905"
+  },
+  {
+    "name": "University of London",
+    "url": "https://www.linkedin.com/school/university-of-london/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "London, London",
+    "type": "Educational",
+    "founded": "1836"
+  },
+  {
+    "name": "St.Anthony's College Kandy",
+    "url": "https://www.linkedin.com/school/stanthonyscollege/",
+    "industry": "Primary and Secondary Education",
+    "size": "201-500 employees",
+    "headquaters": "Kandy, Central Province",
+    "type": "Educational",
+    "founded": "1854"
+  },
+  {
+    "name": "University of Kentucky",
+    "url": "https://be.linkedin.com/school/universityofkentucky/",
+    "industry": "Higher Education",
+    "size": "10,001+ employees",
+    "headquaters": "Lexington, KY",
+    "type": "Educational",
+    "founded": "1865"
+  },
+  {
+    "name": "Dr. Mikel J Harry Six Sigma Management Institute Asia",
+    "url": "https://www.linkedin.com/school/leansixsigmaasia/",
+    "industry": "Professional Training and Coaching",
+    "size": "11-50 employees",
+    "headquaters": "Colombo, Western",
+    "type": "Educational",
+    "founded": "2010"
+  },
+  {
+    "name": "University of the West of Scotland",
+    "url": "https://co.linkedin.com/school/university-of-the-west-of-scotland/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Paisley",
+    "type": "Educational",
+    "founded": "1897"
+  },
+  {
+    "name": "Sri Lanka Institute of Marketing-SLIM",
+    "url": "https://www.linkedin.com/school/slimhome/",
+    "industry": "Education Administration Programs",
+    "size": "201-500 employees",
+    "headquaters": "",
+    "type": "Educational",
+    "founded": "1970"
+  },
+  {
+    "name": "University of Northampton",
+    "url": "https://www.linkedin.com/school/university-of-northampton/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Northampton, Northamptonshire",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "Richmond College",
+    "url": "https://www.linkedin.com/school/richmondcollege/",
+    "industry": "Primary and Secondary Education",
+    "size": "51-200 employees",
+    "headquaters": "Galle, Southern Province",
+    "type": "Educational",
+    "founded": "1876"
+  },
+  {
+    "name": "Birmingham City University",
+    "url": "https://www.linkedin.com/school/birmingham-city-university/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Birmingham, England",
+    "type": "Educational",
+    "founded": ""
+  },
+  {
+    "name": "ACCA",
+    "url": "https://www.linkedin.com/school/acca/",
+    "industry": "Accounting",
+    "size": "1,001-5,000 employees",
+    "headquaters": "London, UK",
+    "type": "Nonprofit",
+    "founded": "1904"
+  },
+  {
+    "name": "Isipathana College - Colombo 05",
+    "url": "https://lk.linkedin.com/school/isipathana-college-colombo-05/",
+    "industry": "Higher Education",
+    "size": "201-500 employees",
+    "headquaters": "Colombo 05, Western",
+    "type": "Educational",
+    "founded": "1952"
+  },
+  {
+    "name": "ICBT Campus",
+    "url": "https://www.linkedin.com/school/icbtcampus/",
+    "industry": "Higher Education",
+    "size": "201-500 employees",
+    "headquaters": "Colombo 04, Western Province",
+    "type": "Educational",
+    "founded": "2000"
+  },
+  {
+    "name": "Mahanama College Colombo",
+    "url": "https://www.linkedin.com/school/mahanamacollegecolombo/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Colombo 03, Western",
+    "type": "Educational",
+    "founded": "1954"
+  },
+  {
+    "name": "Edith Cowan University",
+    "url": "https://au.linkedin.com/school/edithcowanuniversity/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Joondalup, Western Australia",
+    "type": "Educational",
+    "founded": "1991"
+  },
+  {
+    "name": "University of Kelaniya Sri Lanka",
+    "url": "https://lk.linkedin.com/school/university-of-kelaniya-sri-lanka/",
+    "industry": "Higher Education",
+    "size": "1,001-5,000 employees",
+    "headquaters": "Kelaniya, Western",
+    "type": "Educational",
+    "founded": "1875"
+  },
+  {
+    "name": "Anuradhapura Central College",
+    "url": "https://lk.linkedin.com/school/anucentralcollege/",
+    "industry": "Education Administration Programs",
+    "size": "51-200 employees",
+    "headquaters": "Anuradhapura, North Central College",
+    "type": "Educational",
+    "founded": "1947"
+  }
+]

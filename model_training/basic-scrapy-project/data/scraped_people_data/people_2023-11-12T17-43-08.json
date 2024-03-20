@@ -1,0 +1,106 @@
+[
+    {
+        "profile": "binetht",
+        "url": "https://www.linkedin.com/in/binetht/",
+        "name": "Bineth Liyanage",
+        "experience": [
+            {
+                "position": "Senior Executive -Sample Room Planning/Operations & Technical Projects",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "",
+                "start_time": "May 2022",
+                "end_time": "present",
+                "duration": "1 year 7 months"
+            },
+            {
+                "position": "Executive - Technical Projects",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "",
+                "start_time": "May 2019",
+                "end_time": "May 2022",
+                "duration": "3 years 1 month"
+            },
+            {
+                "position": "Technical Executive - Technical Projects (Sample Room Process Improvement Project)",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Sri Lanka",
+                "start_time": "Jun 2018",
+                "end_time": "May 2019",
+                "duration": "1 year"
+            },
+            {
+                "position": "Technical Executive - Pattern Tech",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "",
+                "location": "Rathmalana, Srilanka",
+                "start_time": "Dec 2017",
+                "end_time": "Jun 2018",
+                "duration": "7 months"
+            },
+            {
+                "position": "Freelance Graphic Designer",
+                "organisation": "99designs",
+                "organisation_profile": "https://www.linkedin.com/company/99designs",
+                "location": "Sri Lanka",
+                "start_time": "Jan 2023",
+                "end_time": "present",
+                "duration": "11 months"
+            },
+            {
+                "position": "Co-Founder",
+                "organisation": "Binetht Talks",
+                "organisation_profile": "https://www.linkedin.com/company/binetht-talks",
+                "location": "Sri Lanka",
+                "start_time": "Mar 2016",
+                "end_time": "present",
+                "duration": "7 years 9 months"
+            },
+            {
+                "position": "Co Founder",
+                "organisation": "BinethT Studios",
+                "organisation_profile": "https://www.linkedin.com/company/binetht-studios",
+                "location": "srilanka",
+                "start_time": "Nov 2004",
+                "end_time": "present",
+                "duration": "19 years 1 month"
+            },
+            {
+                "position": "Internship",
+                "organisation": "MAS Intimates",
+                "organisation_profile": "https://www.linkedin.com/company/mas-intimates",
+                "location": "Rathmalana, Srilanka",
+                "start_time": "Jul 2016",
+                "end_time": "Jan 2017",
+                "duration": "7 months"
+            },
+            {
+                "position": "Industrial Orientation",
+                "organisation": "MAS Intimates",
+                "organisation_profile": "https://www.linkedin.com/company/mas-intimates",
+                "location": "Unichella Koggala",
+                "start_time": "2014",
+                "end_time": "2014",
+                "duration": "less than a year"
+            }
+        ],
+        "education": [
+            {
+                "organisation": "University of Moratuwa",
+                "organisation_profile": "https://www.linkedin.com/school/university-of-moratuwa/",
+                "course_details": "Bachelor's Degree Textile and clothing technology",
+                "start_time": "2014",
+                "end_time": "2018"
+            },
+            {
+                "organisation": "Mahinda College",
+                "organisation_profile": "https://www.linkedin.com/school/mahindacollege/",
+                "course_details": "Ordinary Level and Advance level Mathematics",
+                "start_time": "1996",
+                "end_time": "2010"
+            }
+        ]
+    }
+]

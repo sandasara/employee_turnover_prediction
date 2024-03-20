@@ -1,0 +1,70 @@
+[
+    {
+        "profile": "zeenath-ahamed-3678a4b8",
+        "url": "https://www.linkedin.com/in/zeenath-ahamed-3678a4b8/",
+        "name": "Zeenath Ahamed",
+        "experience": [
+            {
+                "position": "Business Analyst / Senior Business Analyst",
+                "organisation": "MAS Active (Pvt) Ltd",
+                "organisation_profile": "",
+                "location": "Sri Lanka",
+                "start_time": "Jun 2005",
+                "end_time": "Dec 2009",
+                "duration": "4 years 7 months"
+            },
+            {
+                "position": "Manager - Organization Structure and Design",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "",
+                "start_time": "Apr 2021",
+                "end_time": "present",
+                "duration": "2 years 8 months"
+            },
+            {
+                "position": "Assistant Manager - Organizational Strategy Design",
+                "organisation": "MAS Holdings",
+                "organisation_profile": "https://www.linkedin.com/company/mas-holdings",
+                "location": "Vauxhall street colombo",
+                "start_time": "Jul 2018",
+                "end_time": "Apr 2021",
+                "duration": "2 years 10 months"
+            },
+            {
+                "position": "Assistant Manager - Strategic Planning",
+                "organisation": "MAS Active (Pvt) Ltd",
+                "organisation_profile": "",
+                "location": "",
+                "start_time": "Jan 2017",
+                "end_time": "Jun 2018",
+                "duration": "1 year 6 months"
+            },
+            {
+                "position": "Assistant Manager - Business Analysis and Planning",
+                "organisation": "MAS Active (Pvt) Ltd",
+                "organisation_profile": "",
+                "location": "Sri Lanka",
+                "start_time": "Jun 2010",
+                "end_time": "Dec 2016",
+                "duration": "6 years 7 months"
+            }
+        ],
+        "education": [
+            {
+                "organisation": "Staffordshire University",
+                "organisation_profile": "https://www.linkedin.com/school/staffordshire-university/",
+                "course_details": "Bsc (Hons) Degree in Information Technology",
+                "start_time": "2000",
+                "end_time": "2004"
+            },
+            {
+                "organisation": "Ladies College Colombo, Sri Lanka",
+                "organisation_profile": "",
+                "course_details": "",
+                "start_time": "1985",
+                "end_time": "1999"
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "CDI College",
+        "url": "https://www.linkedin.com/company/cdi-college",
+        "industry": "Higher Education",
+        "size": "501-1,000 employees",
+        "headquaters": "Vancouver, British Columbia",
+        "type": "Educational",
+        "founded": "1969"
+    },
+    {
+        "name": "University of Colombo School of Computing",
+        "url": "https://www.linkedin.com/company/ucsc-lk",
+        "industry": "Higher Education",
+        "size": "51-200 employees",
+        "headquaters": "Colombo 7, Western",
+        "type": "Educational",
+        "founded": "2002"
+    },
+    {
+        "name": "Self Employed",
+        "url": "https://www.linkedin.com/company/indpendent-contractor",
+        "industry": "Satellite Beach, Florida",
+        "size": "Self-Employed",
+        "headquaters": "1972",
+        "type": "Finacial Services, Private Investigations, Dive Master, Nonprofit Management, Tax Planning, Accounting, Fire Protection Engineering, Plant Engineering, Computer Consulting, Military Science, Electronic Security Engineering, Food Service Management, Groundskeeper, Bee keeper, Auditor, Editor, Proof Reader, Chaplin, Mentor, Cook, History Instructor, Biblical Studies, Equity Trading, Sales, Boating Safety Instructor, Project Management, and Investment Banker",
+        "founded": ""
+    },
+    {
+        "name": "MAS Holdings",
+        "url": "https://be.linkedin.com/company/mas-holdings",
+        "industry": "Apparel & Fashion",
+        "size": "10,001+ employees",
+        "headquaters": "Colombo, Colombo",
+        "type": "Privately Held",
+        "founded": ""
+    },
+    {
+        "name": "MAS Kreeda",
+        "url": "https://co.linkedin.com/company/mas-kreeda",
+        "industry": "Fabricaci\u00f3n de ropa",
+        "size": "M\u00e1s de 10.001 empleados",
+        "headquaters": "Biyagama, Western Province",
+        "type": "De financiaci\u00f3n privada",
+        "founded": "2017"
+    },
+    {
+        "name": "MAS Linea Aqua",
+        "url": "https://www.linkedin.com/company/mas-linea-aqua",
+        "industry": "",
+        "size": "",
+        "headquaters": "",
+        "type": "",
+        "founded": ""
+    }
+]
